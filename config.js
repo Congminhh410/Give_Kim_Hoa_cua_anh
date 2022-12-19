@@ -1,18 +1,16 @@
 const CONFIG = {
-    introTitle: 'Hê sờ nhô cô gái xinh đẹp nhất hôm nay!',
-    introDesc: `Hôm nay là ngày 20-10.
-    Là 1 ngày khá đặc biệt của cô gái đang đọc những dòng này từ anh
-    Cô gái hôm nay phải thật vui vẻ và hạnh phúc nghe chưa`,
-    btnIntro: 'Dạ, ô sờ kê ạ <3',
-    title: 'Hôm nay là 20-10 nhỉ 😙',
-    desc: 'Anh chúc cô gái xinh đẹp thật vui vẻ và hạnh phúc, luôn phải vui tươi và cười nhiều hơn nữa. Và 1 điều nữa anh muốn nhắn gửi đến cô gái là trong tim cô gái luôn phải chừa 1 chỗ cho anh đó nghe chưa ! Không trả lời tức là đồng ý đó >.<',
-    btnYes: 'Vẫn luôn có 1 chỗ duy nhất cho anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Thứ em thực sự thích vào ngày 20-10 này là gì vậy cô bé ?',
-    btnReply: 'Gửi cho anh nào cô bé <3',
-    reply: 'Không chỉ 20-10 mà cả tương lai em chỉ muốn có anh bên cạnh thôi <33333333',
-    mess: 'Anh biết mà 🥰. Anh cũng đang đợi điều đó đến với anh nè 😘😘',
-    messDesc: 'Đùa thôi, anh chỉ muốn 20-10 này cho cô gái 1 chút vui vẻ và đặc biệt thôi. Nhưng anh cũng mong điều đó sớm sẽ thành sự thật. Cuối cùng tới đây và nói gì đó với anh đi nào babe <3',
-    btnAccept: 'Hòm thư góp ý nè cô bé. Đến đây và góp ý gì đó cho anh nào <3',
+    introTitle: 'Chào Đức!',
+    introDesc: `Có phải bạn đang muốn tìm link fb của bạn nữ xinh đẹp đó không`,
+    btnIntro: 'Vào đây để hacker Minh giúp bạn nhé <3',
+    title: 'Bạn có ý định gì với cô gái xinh đẹp đó😙',
+    desc: 'Hãy trả lời thật lòng nào bạn Đức',
+    btnYes: 'Tán xong thịt chứ còn gì nữa',
+    btnNo: 'Tớ chỉ muốn ngắm nhìn sự xinh đẹp đó thôi',
+    question:'Tao biết ngay mà bạn chỉ đang muốn thể xác của ngta thôi chán lắm Đức ạ. Cho bạn 1 cơ hội nữa để trả lời mục đích của bạn đấy',
+    btnReply: 'Gửi cho hacker Minh',
+    reply: 'Thực ra tớ muốn nhìn nụ cười của cô ấy thôi. Nhưng tớ vẫn sẽ thịt cô ấy',
+    mess: 'Tao lại biết ngay mà đầu óc m chỉ thịt ngta thôi k thể tin tưởng được',
+    messDesc: 'Vào đây chuộc lỗi nhanh rồi có link tml',
+    btnAccept: 'Vào đây chuộc lỗi nhanh',
     messLink: 'http://m.me/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
