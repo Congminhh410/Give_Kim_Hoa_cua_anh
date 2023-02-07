@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'Chào Đức!',
-    introDesc: `Có phải bạn đang muốn tìm link fb của bạn nữ xinh đẹp đó không`,
-    btnIntro: 'Vào đây để hacker Minh giúp bạn nhé <3',
-    title: 'Bạn có ý định gì với cô gái xinh đẹp đó😙',
-    desc: 'Hãy trả lời thật lòng nào bạn Đức',
-    btnYes: 'Tán xong thịt chứ còn gì nữa',
-    btnNo: 'Tớ chỉ muốn ngắm nhìn sự xinh đẹp đó thôi',
-    question:'Tao biết ngay mà bạn chỉ đang muốn thể xác của ngta thôi chán lắm Đức ạ. Cho bạn 1 cơ hội nữa để trả lời mục đích của bạn đấy',
-    btnReply: 'Gửi cho hacker Minh',
-    reply: 'Thực ra tớ muốn nhìn nụ cười của cô ấy thôi. Nhưng tớ vẫn sẽ thịt cô ấy',
-    mess: 'Tao lại biết ngay mà đầu óc m chỉ thịt ngta thôi k thể tin tưởng được',
-    messDesc: 'Vào đây chuộc lỗi nhanh rồi có link tml',
-    btnAccept: 'Vào đây chuộc lỗi nhanh',
-    messLink: 'http://m.me/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Nhinh nhinh à!',
+    introDesc: `Em biết không ?
+    Lần đầu gặp em là anh biết em thuộc về anh rồi
+    A sợ nếu anh chậm trễ cơ hội này sẽ thuộc về người khác mất
+    Vậy nên anh sẽ dùng cơ hội này để thử nốt vận may của anh`,
+    btnIntro: 'hihi',
+    title: 'Nếu 1 ngày đẹp trời anh nói "Anh thích em" 😙',
+    desc: 'Thì câu trả lời của em sẽ là gì ? Hãy chọn 1 phương án, nếu không sẽ là đồng ý lập tức đó nha 😙 ',
+    btnYes: 'Em đồng ý <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà chúng ta gặp được nhau em nghĩ đó có phải là may mắn không ? <3',
+    btnReply: 'Gửi cho anh Minhhh <3',
+    reply: 'Thực ra gặp được anh là em thấy mình thật sự rất may mắn rồi <3333333333333333',
+    mess: 'Anh biết mà 🥰. Anh cũng vại. Love you 😘😘',
+    messDesc: '14/2 này mình sẽ thuộc về nhau nhé cobe',
+    btnAccept: 'Dạ vânggggggg <3',
+    messLink: 'https://www.messenger.com/t/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
