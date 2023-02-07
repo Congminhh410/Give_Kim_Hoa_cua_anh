@@ -23,7 +23,7 @@ const CONFIG = {
     reply: 'Thực ra gặp được anh là em thấy mình thật sự rất may mắn rồi <3333333333333333',
     mess: 'Anh biết mà 🥰. Anh cũng vại. Love you 😘😘',
     messDesc: '14/2 này mình sẽ thuộc về nhau nhé cobe',
-    btnAccept: 'Dạ vângggggg <3',
+    btnAccept: 'Dạ vânggggggg <3',
     messLink: 'https://www.messenger.com/t/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
