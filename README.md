@@ -8,23 +8,23 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Nhinh nhinh à!',
+    introTitle: 'Chào cô gái tháng 3 của anh!',
     introDesc: `Em biết không ?
-    Lần đầu gặp em là anh biết em thuộc về anh rồi
-    A sợ nếu anh chậm trễ cơ hội này sẽ thuộc về người khác mất
-    Vậy nên anh sẽ dùng cơ hội này để thử nốt vận may của anh`,
-    btnIntro: 'hihi',
-    title: 'Nếu 1 ngày đẹp trời anh nói "Anh thích em" 😙',
-    desc: 'Thì câu trả lời của em sẽ là gì ? Hãy chọn 1 phương án, nếu không sẽ là đồng ý lập tức đó nha 😙 ',
-    btnYes: 'Em đồng ý <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà chúng ta gặp được nhau em nghĩ đó có phải là may mắn không ? <3',
-    btnReply: 'Gửi cho anh Minhhh <3',
+    Tháng 3 là tháng rất đặc biệt em đến với thế giới này và bây giờ em là của anh
+    Và sau này anh cũng mong nó là 1 ngày đặc biệt đối với anh nữa`,
+    btnIntro: 'Tiếp theo đây đến phần chọn quà cho bé Hoà của anh !',
+    title: 'Chúc mừng sinh nhật em, cũng chúc mừng tình yêu của chúng ta 😙',
+    desc: 'Cô gái xinh đẹp của tôi xứng đáng có 1 món quà. Nào hãy chọn 1 món quà mà em thích nghennn 😙 ',
+    btnYes: 'Hãy chọn 1 trong những món quà ở đây <33',
+    btnNo: 'Skip và sẽ được 1 món quà ngẫu nhiên',
+    question:'Thật may mắn là trong 7 tỷ người và chúng ta gặp được nhau. Hãy viết 1 điều mà em muốn gửi tới anh nhé. Điều này sẽ được giữ bí mật 😮‍💨',
+    btnReply: 'Gửi vào hòm thư bí mật <3',
     reply: 'Thực ra gặp được anh là em thấy mình thật sự rất may mắn rồi <3333333333333333',
-    mess: 'Anh biết mà 🥰. Anh cũng vại. Love you 😘😘',
-    messDesc: '14/2 này mình sẽ thuộc về nhau nhé cobe',
+    mess: 'Món quà đó chính là anhhh nè 🥰. Love you 😘😘',
+    messDesc: 'Anh mong từ giờ trở về sau, chúng ta sẽ mãi bên nhau vậy nhé <3',
     btnAccept: 'Dạ vânggggggg <3',
     messLink: 'https://www.messenger.com/t/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
 }
 ```
 
