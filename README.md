@@ -15,8 +15,8 @@ const CONFIG = {
     btnIntro: 'Tiếp theo đây đến phần chọn quà cho bé Hoà của anh !',
     title: 'Chúc mừng sinh nhật em, cũng chúc mừng tình yêu của chúng ta 😙',
     desc: 'Cô gái xinh đẹp của tôi xứng đáng có 1 món quà. Nào hãy chọn 1 món quà mà em thích nghennn 😙 ',
-    btnYes: 'Hãy chọn 1 trong những món quà ở đây <33',
-    btnNo: 'Skip và sẽ được 1 món quà ngẫu nhiên',
+    btnYes: 'Skip và sẽ được 1 món quà ngẫu nhiên',
+    btnNo: 'Hãy chọn 1 trong những món quà ở đây <33',
     question:'Thật may mắn là trong 7 tỷ người và chúng ta gặp được nhau. Hãy viết 1 điều mà em muốn gửi tới anh nhé. Điều này sẽ được giữ bí mật 😮‍💨',
     btnReply: 'Gửi vào hòm thư bí mật <3',
     reply: 'Thực ra gặp được anh là em thấy mình thật sự rất may mắn rồi <3333333333333333',
@@ -24,7 +24,6 @@ const CONFIG = {
     messDesc: 'Anh mong từ giờ trở về sau, chúng ta sẽ mãi bên nhau vậy nhé <3',
     btnAccept: 'Dạ vânggggggg <3',
     messLink: 'https://www.messenger.com/t/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
 }
 ```
 
